@@ -26,6 +26,32 @@ router.get('/api/user', (req, res, next) => {
             age: 37
         }
         ]
+        metadata:[
+        {
+            name:'antony sprin',
+            age: 25
+        },
+        {
+            name:'Ronaldo',
+            age: 40
+        },
+        {
+            name:'Messi',
+            age: 37
+        },
+        {
+            name:'Singapore',
+            phone: +65
+        },
+        {
+            name:'Viet Nam',
+            phone: +84
+        },
+        {
+            name:'Thai Land',
+            phone: +66
+        }
+        ]
     })
 })
 
