@@ -25,18 +25,18 @@ router.get('/api/user', (req, res, next) => {
             name:'Messi',
             age: 37
         },
-        {
-            name:'Singapore',
-            phone: +65
-        },
-        {
-            name:'Viet Nam',
-            phone: +84
-        },
-        {
-            name:'Thai Land',
-            phone: +66
-        }
+        // {
+        //     name:'Singapore',
+        //     phone: +65
+        // },
+        // {
+        //     name:'Viet Nam',
+        //     phone: +84
+        // },
+        // {
+        //     name:'Thai Land',
+        //     phone: +66
+        // }
         ]
     })
 })
